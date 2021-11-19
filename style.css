@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: none;
+  box-sizing: border-box;
+  background: transparent;
+  font-family: inherit;
+  text-decoration: none;
+}
+
+ol,
+ul,
+li {
+  list-style: none;
+  display: block;
+}
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+a,
+img {
+  border: none;
+}
+
+button,
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+textarea {
+  resize: none;
+}
+
+button,
+input,
+textarea,
+select {
+  appearance: none !important;
+  -webkit-appearance: none !important; /* safari, opera, chrome miatt */
+  border-radius: 0;
+}
+
+/* CSS reset */
+
+.box {
+  color: white;
+  font-style: 100px;
+  text-align: center;
+  padding: 10px;
+}
+
+.box-1 {
+  background: green;
+}
+.box-2 {
+  background: brown;
+}
+.box-3 {
+  background: yellow;
+}
+.box-4 {
+  background: purple;
+}
+.box-5 {
+  background: blue;
+}
+.box-6 {
+  background: palegoldenrod;
+}
+.box-7 {
+  background: red;
+}
+.box-8 {
+  background: grey;
+}
+.box-9 {
+  background: darkcyan;
+}
+.box-10 {
+  background: orange;
+}
